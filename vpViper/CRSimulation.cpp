@@ -18,7 +18,7 @@
 #include <visp/vpRotationMatrix.h>
 #include "CRSimulation.h"
 #include <cmath>    
-#include <limits>   // numeric_limits
+#include <limits>   
 
 
 const unsigned int CRSimulation::njoint = 3; 

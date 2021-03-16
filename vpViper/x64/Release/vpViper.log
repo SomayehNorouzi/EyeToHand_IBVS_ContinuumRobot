@@ -2,11 +2,11 @@
   stdafx.cpp
   CRSimulation.cpp
   Main.cpp
-C:\Users\Somayeh\Desktop\GitHub\ETH_IBVS_CR\vpViper\Main.cpp(176,38): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
-C:\Users\Somayeh\Desktop\GitHub\ETH_IBVS_CR\vpViper\Main.cpp(176,32): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Somayeh\Documents\GitHub\EyeToHandIBVSContinuumRobot\vpViper\Main.cpp(176,38): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Somayeh\Documents\GitHub\EyeToHandIBVSContinuumRobot\vpViper\Main.cpp(176,32): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
   Generating code
   181 of 187 functions (96.8%) were compiled, the rest were copied from previous compilation.
     3 functions were new in current compilation
     1 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  vpViper.vcxproj -> C:\Users\Somayeh\Desktop\GitHub\ETH_IBVS_CR\x64\Release\ETH_IBVS_CR.exe
+  vpViper.vcxproj -> C:\Users\Somayeh\Documents\GitHub\EyeToHandIBVSContinuumRobot\x64\Release\ETH_IBVS_CR.exe
